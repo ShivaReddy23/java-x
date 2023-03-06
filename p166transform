@@ -1,0 +1,11 @@
+public class p66transform {
+	public static void main(String args[])
+    {
+        int a = 35;
+        String str1 = Integer.toString(a);
+
+        System.out.println("String format = " + str1);
+      
+    }
+}  
+
